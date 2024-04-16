@@ -22,4 +22,5 @@ You can click the Preview link to take a look at your changes.
 
 
 
-1.https://github.com/eru2/addressbook-robot
+1. https://github.com/eru2/addressbook-robot -주소록 프로그램
+2. https://github.com/eru2/TM002/blob/main/README.md - 이미지 분류 프로그램
