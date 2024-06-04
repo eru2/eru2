@@ -47,7 +47,7 @@ You can click the Preview link to take a look at your changes.
    - https://github.com/eru2/TM01
    - https://github.com/eru2/Tm001
 3. https://github.com/eru2/mangirl - Keras와 TensorFlow를 사용하여 해당 얼굴 이미지를 분석
-4. https://github.com/eru2/Robot_tts - 간단한 로봇 조종
+4. https://github.com/eru2/Robot_tts - 로봇 커맨드 입력
 
 
 
