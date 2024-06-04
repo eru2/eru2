@@ -10,9 +10,7 @@
 ## Once I Used
 
 ![image](https://github.com/eru2/eru2/assets/165991738/db07f565-f6c1-4269-a80b-a94bf35b779e)
-![image](https://github.com/eru2/eru2/assets/165991738/9470628e-be2b-45b4-b130-876c5aed69ff)
-![image](https://github.com/eru2/eru2/assets/165991738/664e022a-7d38-4ec6-b2e1-b583c6665895)
-![image](https://github.com/eru2/eru2/assets/165991738/cf84ae20-2162-4c1f-8fb6-8f8240c8a5b4)
+
 ##### Development Tools
 ![image](https://github.com/eru2/eru2/assets/165991738/435577b4-7235-4481-a5c0-457136345285)
 ![image](https://github.com/eru2/eru2/assets/165991738/3e06c22c-d87d-426c-89af-90c36f7e517e)
