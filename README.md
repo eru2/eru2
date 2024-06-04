@@ -7,6 +7,7 @@ Language
 ![image](https://github.com/eru2/eru2/assets/165991738/dfc3d071-62c8-44de-a250-2379239ad003)
 ![image](https://github.com/eru2/eru2/assets/165991738/a5007ea6-b96b-4e08-bacd-0587e60a599c)
 ![image](https://github.com/eru2/eru2/assets/165991738/1f0af844-ef45-4385-a857-b26747496208)
+![image](https://github.com/eru2/eru2/assets/165991738/db07f565-f6c1-4269-a80b-a94bf35b779e)
 
 
 
