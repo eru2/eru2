@@ -49,6 +49,10 @@ You can click the Preview link to take a look at your changes.
 3. https://github.com/eru2/mangirl - Keras와 TensorFlow를 사용하여 해당 얼굴 이미지를 분석
 4. https://github.com/eru2/Robot_tts - 로봇 커맨드 입력
 
-
+## Contect
+  <a href="mailto:steve020264@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+</a>
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eru2&show_icons=true&theme=radical)
